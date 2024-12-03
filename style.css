@@ -1,0 +1,36 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+
+}
+.main-header{
+    height: 100px;
+    width: 100%;
+    background-color: #f3f3f3;
+    display: flex;
+    align-items: center;
+    
+
+}
+.logo{
+    border: 2px solid red; 
+    margin-right: 60%;
+    margin-left: 10%;
+    
+
+
+}
+.menu{
+
+    border: 2px solid green;
+    width: 30%;
+}
+.logo img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+
+    
+}
